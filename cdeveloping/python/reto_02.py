@@ -42,7 +42,7 @@ print ("La resta de a y b es: ", a - b)
 print ("La multiplicación de a y b es: ", a * b)
 print ("La división de a entre b es: ", a / b)
 print ("El resto de la división entra a y b es:  ", a % b)
-print ("El cuadrado de a es: ", a ** 2)
+print ("El cuadrado de a es: ", 2 ** 2)
 print ("El entero de la división entre a y b es: ", a // b)
 
 
