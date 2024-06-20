@@ -55,7 +55,16 @@ int main(){
 
     cout << "Post-Decremento (x-) " << endl;
 
-    
+    cout << "*** ESTRUCTURAS DE CONTROL ***" << endl;
+
+    int a = 10;
+    int b = 15;
+
+    if(a < b) {
+        cout << "La variable a es menor que b";
+    }else{
+        cout << "La variable a no es menor que la variable b" << endl;
+    }
 
 
 }
