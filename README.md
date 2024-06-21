@@ -44,7 +44,7 @@
  * entre 10 y 55 (incluidos), pares, y que no son ni el 16 ni múltiplos de 3.
 </p>
 
-<p><b><a href = "">Ejercicio resuelto en Python.</a></b></p>
-<p><b><a href = "">Ejercicio resuelto en C++.</a></b></p>
+<p><b><a href = "https://github.com/cdeveloping/logica/blob/main/cdeveloping/python/reto_02.py">Ejercicio resuelto en Python.</a></b></p>
+<p><b><a href = "https://github.com/cdeveloping/logica/blob/main/cdeveloping/C%2B%2B/Reto%2002/reto02.cpp">Ejercicio resuelto en C++.</a></b></p>
 
 <hr><br>
